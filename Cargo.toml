@@ -6,3 +6,5 @@ authors = ["Kyle Chamberlin <Kyle@Chamberl.in>"]
 
 
 [dependencies]
+
+rand = "0.3.0"
